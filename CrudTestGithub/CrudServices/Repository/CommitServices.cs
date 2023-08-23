@@ -1,11 +1,6 @@
 ﻿using CrudDatabase;
 using CrudDatabase.tblCommit;
 using CrudServices.IRepository;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CrudServices.Repository
 {
