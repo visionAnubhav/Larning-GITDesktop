@@ -1257,19 +1257,6 @@
         "runtime": {
           "bin/placeholder/CrudDatabase.dll": {}
         }
-      },
-      "CrudServices/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "CrudDatabase": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/CrudServices.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CrudServices.dll": {}
-        }
       }
     }
   },
@@ -3958,17 +3945,11 @@
       "type": "project",
       "path": "../CrudDatabase/CrudDatabase.csproj",
       "msbuildProject": "../CrudDatabase/CrudDatabase.csproj"
-    },
-    "CrudServices/1.0.0": {
-      "type": "project",
-      "path": "../CrudServices/CrudServices.csproj",
-      "msbuildProject": "../CrudServices/CrudServices.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "CrudDatabase >= 1.0.0",
-      "CrudServices >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.10",
@@ -4018,9 +3999,6 @@
           "projectReferences": {
             "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj": {
               "projectPath": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj"
-            },
-            "D:\\Larning GITDesktop\\CrudTestGithub\\CrudServices\\CrudServices.csproj": {
-              "projectPath": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudServices\\CrudServices.csproj"
             }
           }
         }
