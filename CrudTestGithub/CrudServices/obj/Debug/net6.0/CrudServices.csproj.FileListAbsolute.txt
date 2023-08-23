@@ -1,0 +1,12 @@
+D:\Larning GITDesktop\CrudTestGithub\CrudServices\bin\Debug\net6.0\CrudServices.deps.json
+D:\Larning GITDesktop\CrudTestGithub\CrudServices\bin\Debug\net6.0\CrudServices.dll
+D:\Larning GITDesktop\CrudTestGithub\CrudServices\bin\Debug\net6.0\CrudServices.pdb
+D:\Larning GITDesktop\CrudTestGithub\CrudServices\obj\Debug\net6.0\CrudServices.csproj.AssemblyReference.cache
+D:\Larning GITDesktop\CrudTestGithub\CrudServices\obj\Debug\net6.0\CrudServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Larning GITDesktop\CrudTestGithub\CrudServices\obj\Debug\net6.0\CrudServices.AssemblyInfoInputs.cache
+D:\Larning GITDesktop\CrudTestGithub\CrudServices\obj\Debug\net6.0\CrudServices.AssemblyInfo.cs
+D:\Larning GITDesktop\CrudTestGithub\CrudServices\obj\Debug\net6.0\CrudServices.csproj.CoreCompileInputs.cache
+D:\Larning GITDesktop\CrudTestGithub\CrudServices\obj\Debug\net6.0\CrudServices.dll
+D:\Larning GITDesktop\CrudTestGithub\CrudServices\obj\Debug\net6.0\refint\CrudServices.dll
+D:\Larning GITDesktop\CrudTestGithub\CrudServices\obj\Debug\net6.0\CrudServices.pdb
+D:\Larning GITDesktop\CrudTestGithub\CrudServices\obj\Debug\net6.0\ref\CrudServices.dll

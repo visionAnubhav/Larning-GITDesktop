@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aLyjL6JOc2sYQseNLk/CHR8pcLRqkPNbtP+YabyEw809KOXPtX8tc6udRfFgjQwr5B9NRDkY3Hj/U1McB3ZnyQ==",
+  "dgSpecHash": "cQP//+KryT1jK5NHs8FfzZYXO5kE+mqIe1fIzLynel2C7NndyjQEjsRBsQ5iYi69Tje5UE3dmbbNZVfVvtBe6g==",
   "success": true,
-  "projectFilePath": "D:\\Core\\4rth Week\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj",
+  "projectFilePath": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vision-080\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Vision-080\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

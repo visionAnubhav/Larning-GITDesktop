@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Core\\4rth Week\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj": {}
+    "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj": {}
   },
   "projects": {
-    "D:\\Core\\4rth Week\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj": {
+    "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Core\\4rth Week\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj",
+        "projectUniqueName": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj",
         "projectName": "CrudDatabase",
-        "projectPath": "D:\\Core\\4rth Week\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj",
+        "projectPath": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj",
         "packagesPath": "C:\\Users\\Vision-080\\.nuget\\packages\\",
-        "outputPath": "D:\\Core\\4rth Week\\CrudTestGithub\\CrudDatabase\\obj\\",
+        "outputPath": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

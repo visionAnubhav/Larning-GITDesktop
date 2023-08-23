@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudTestGithub", "CrudTestGithub\CrudTestGithub.csproj", "{0D0D3F84-CC90-499E-AD90-CFB6253549B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudTestGithub", "CrudTestGithub\CrudTestGithub.csproj", "{0D0D3F84-CC90-499E-AD90-CFB6253549B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudDatabase", "CrudDatabase\CrudDatabase.csproj", "{D89BB3EF-C169-4D25-8BCC-C03036ECBEFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudDatabase", "CrudDatabase\CrudDatabase.csproj", "{D89BB3EF-C169-4D25-8BCC-C03036ECBEFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudServices", "CrudServices\CrudServices.csproj", "{14A2F83A-10DB-4AF7-BC53-0C2F0103CB48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D89BB3EF-C169-4D25-8BCC-C03036ECBEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D89BB3EF-C169-4D25-8BCC-C03036ECBEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D89BB3EF-C169-4D25-8BCC-C03036ECBEFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A2F83A-10DB-4AF7-BC53-0C2F0103CB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A2F83A-10DB-4AF7-BC53-0C2F0103CB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A2F83A-10DB-4AF7-BC53-0C2F0103CB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A2F83A-10DB-4AF7-BC53-0C2F0103CB48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

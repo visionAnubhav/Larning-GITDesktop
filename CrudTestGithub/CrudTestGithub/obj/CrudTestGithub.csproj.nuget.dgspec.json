@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Core\\4rth Week\\CrudTestGithub\\CrudTestGithub\\CrudTestGithub.csproj": {}
+    "D:\\Larning GITDesktop\\CrudTestGithub\\CrudTestGithub\\CrudTestGithub.csproj": {}
   },
   "projects": {
-    "D:\\Core\\4rth Week\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj": {
+    "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Core\\4rth Week\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj",
+        "projectUniqueName": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj",
         "projectName": "CrudDatabase",
-        "projectPath": "D:\\Core\\4rth Week\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj",
+        "projectPath": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj",
         "packagesPath": "C:\\Users\\Vision-080\\.nuget\\packages\\",
-        "outputPath": "D:\\Core\\4rth Week\\CrudTestGithub\\CrudDatabase\\obj\\",
+        "outputPath": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -93,14 +93,81 @@
         }
       }
     },
-    "D:\\Core\\4rth Week\\CrudTestGithub\\CrudTestGithub\\CrudTestGithub.csproj": {
+    "D:\\Larning GITDesktop\\CrudTestGithub\\CrudServices\\CrudServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Core\\4rth Week\\CrudTestGithub\\CrudTestGithub\\CrudTestGithub.csproj",
-        "projectName": "CrudTestGithub",
-        "projectPath": "D:\\Core\\4rth Week\\CrudTestGithub\\CrudTestGithub\\CrudTestGithub.csproj",
+        "projectUniqueName": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudServices\\CrudServices.csproj",
+        "projectName": "CrudServices",
+        "projectPath": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudServices\\CrudServices.csproj",
         "packagesPath": "C:\\Users\\Vision-080\\.nuget\\packages\\",
-        "outputPath": "D:\\Core\\4rth Week\\CrudTestGithub\\CrudTestGithub\\obj\\",
+        "outputPath": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vision-080\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Core\\3rd weeek\\NugetSampleProject\\NugetCommonLibrary\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj": {
+                "projectPath": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Larning GITDesktop\\CrudTestGithub\\CrudTestGithub\\CrudTestGithub.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudTestGithub\\CrudTestGithub.csproj",
+        "projectName": "CrudTestGithub",
+        "projectPath": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudTestGithub\\CrudTestGithub.csproj",
+        "packagesPath": "C:\\Users\\Vision-080\\.nuget\\packages\\",
+        "outputPath": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudTestGithub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -126,8 +193,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Core\\4rth Week\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj": {
-                "projectPath": "D:\\Core\\4rth Week\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj"
+              "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj": {
+                "projectPath": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudDatabase\\CrudDatabase.csproj"
+              },
+              "D:\\Larning GITDesktop\\CrudTestGithub\\CrudServices\\CrudServices.csproj": {
+                "projectPath": "D:\\Larning GITDesktop\\CrudTestGithub\\CrudServices\\CrudServices.csproj"
               }
             }
           }
