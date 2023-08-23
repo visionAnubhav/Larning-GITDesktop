@@ -1,0 +1,14 @@
+D:\Core\4rth Week\CrudTestGithub\CrudDatabase\obj\Debug\net6.0\CrudDatabase.csproj.AssemblyReference.cache
+D:\Core\4rth Week\CrudTestGithub\CrudDatabase\obj\Debug\net6.0\CrudDatabase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Core\4rth Week\CrudTestGithub\CrudDatabase\obj\Debug\net6.0\CrudDatabase.AssemblyInfoInputs.cache
+D:\Core\4rth Week\CrudTestGithub\CrudDatabase\obj\Debug\net6.0\CrudDatabase.AssemblyInfo.cs
+D:\Core\4rth Week\CrudTestGithub\CrudDatabase\obj\Debug\net6.0\CrudDatabase.csproj.CoreCompileInputs.cache
+D:\Core\4rth Week\CrudTestGithub\CrudDatabase\bin\Debug\net6.0\CrudDatabase.deps.json
+D:\Core\4rth Week\CrudTestGithub\CrudDatabase\bin\Debug\net6.0\CrudDatabase.runtimeconfig.json
+D:\Core\4rth Week\CrudTestGithub\CrudDatabase\bin\Debug\net6.0\CrudDatabase.dll
+D:\Core\4rth Week\CrudTestGithub\CrudDatabase\bin\Debug\net6.0\CrudDatabase.pdb
+D:\Core\4rth Week\CrudTestGithub\CrudDatabase\obj\Debug\net6.0\CrudDatabase.dll
+D:\Core\4rth Week\CrudTestGithub\CrudDatabase\obj\Debug\net6.0\refint\CrudDatabase.dll
+D:\Core\4rth Week\CrudTestGithub\CrudDatabase\obj\Debug\net6.0\CrudDatabase.pdb
+D:\Core\4rth Week\CrudTestGithub\CrudDatabase\obj\Debug\net6.0\CrudDatabase.genruntimeconfig.cache
+D:\Core\4rth Week\CrudTestGithub\CrudDatabase\obj\Debug\net6.0\ref\CrudDatabase.dll
